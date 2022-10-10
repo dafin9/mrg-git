@@ -1,6 +1,7 @@
 import React from 'react'
+import firstTemp from "../img/firstTemp.jpg"
 
-const firstTemp = new URL("../img/firstTemp.jpg", import.meta.url)
+// const firstTemp = new URL("../img/firstTemp.jpg", import.meta.url)
 
 export default function Fcard() {
   return (

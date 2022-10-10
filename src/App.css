@@ -23,6 +23,12 @@
   padding:10px;
   
 }
+.db1{
+  width: 400px;
+  margin: auto auto;
+  display: grid;
+  place-items: center;
+}
 .scard{
   display: grid;
   grid-template-columns:auto auto auto;
