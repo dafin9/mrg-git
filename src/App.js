@@ -2,15 +2,14 @@
 import './App.css';
 import Fcard from './components/Fcard';
 import Scard from './components/Scard';
+import Tcard from './components/Tcard';
 
 function App() {
   return (
   <>
     <Fcard />
-    {/* <Test /> */}
     <Scard />
-    {/* this is testing */}
-    {/* this is also testing */}
+    <Tcard/>
   </>
 
   );
