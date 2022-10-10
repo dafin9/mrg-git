@@ -1,7 +1,7 @@
 import React from 'react'
 import bmataji from '../img/bramhaniMata.jpg'
 import ganeshji from '../img/ganeshji.jpg'
-import khodiyarnataji from '../img/khodiyarnataji.jpg'
+import khodiyarnataji from '../img/khodiyarmataji.jpg'
 import mandap from '../img/mandap.jpg'
 
 function Scard() {
